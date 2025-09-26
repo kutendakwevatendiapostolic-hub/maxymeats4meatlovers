@@ -96,8 +96,8 @@ Quality Meats retail
  </section>  <section id="gallery">
     <h2>Image Gallery</h2>
     <div class="gallery">
-      <img src="./MEATS/CHCKN.jpg" >
-      <img src="./MEATS/BEEF.jpg" >
+      <img src="./MEATS/cplate.jpg" >
+      <img src="./MEATS/sausage.jpg" >
       <img src="./MEATS/pork.jpg" >
     </div>
   </section>  <section id="videos">
