@@ -72,7 +72,7 @@ Quality Meats retail
 </head>
 <body>
   <header>
-    <h1>Maxy Meats</h1>
+    <h1>Maxy Meats For Meat lovers</h1>
     <p>Fresh • Quality • Affordable</p>
   </header>
 
