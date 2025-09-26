@@ -93,7 +93,14 @@ Quality Meats retail
     <p>🐄 Beef • 🐖 Pork • 🐐 Goat • 🐓 Chicken</p>
     <p>Wholesale & Retail Available</p>
   </div>
-
+ </section>  <section id="gallery">
+    <h2>Image Gallery</h2>
+    <div class="gallery">
+      <img src="./MEATS/CHCKN.jpg" >
+      <img src="./MEATS/BEEF.jpg" >
+      <img src="./MEATS/pork.jpg" >
+    </div>
+  </section>  <section id="videos">
   <div class="contact" id="contact">
     <h3>Contact Us</h3>
     <p>📞 Phone: +263 77 000 1111</p>
